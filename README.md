@@ -1,4 +1,4 @@
-# Confide _(A Laravel4 Package)_
+# Confide _(A Laravel4 Package modified for HFN)_
 
 ![Confide Poster](https://dl.dropbox.com/u/12506137/libs_bundles/confide.png)
 
